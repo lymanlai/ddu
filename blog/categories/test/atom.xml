@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://ddu.yaha.me/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | My Octopress Blog]]></title>
+  <link href="http://ddu.yaha.me/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://ddu.yaha.me/"/>
   <updated>2012-09-15T08:46:59+08:00</updated>
   <id>http://ddu.yaha.me/</id>

@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://lymanlai.github.com/blog/archives/</loc>
-        <lastmod>2012-09-15T07:56:43+08:00</lastmod>
+        <loc>http://ddu.yaha.me/blog/2012/09/15/test/</loc>
+        <lastmod>2012-09-15T08:36:45+08:00</lastmod>
     </url>
     <url>
-        <loc>http://lymanlai.github.com/</loc>
-        <lastmod>2012-09-15T07:56:43+08:00</lastmod>
+        <loc>http://ddu.yaha.me/blog/archives/</loc>
+        <lastmod>2012-09-15T08:36:45+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ddu.yaha.me/test/</loc>
+        <lastmod>2012-09-15T08:36:53+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ddu.yaha.me/</loc>
+        <lastmod>2012-09-15T08:36:45+08:00</lastmod>
     </url>
 </urlset>
